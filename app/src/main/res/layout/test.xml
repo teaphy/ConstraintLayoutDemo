@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:text="asdfasdfasdfasdfaasdfasdfadfafdasdfa" />
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@id/button17"
+        android:layout_alignBaseline="@id/button17"
+        android:text="aaaaaa"
+        android:textSize="22sp"/>
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">ConstraintLayoutDemo</string>
+    <string name="aaa_aaa">aaa_aaa</string>
+</resources>
